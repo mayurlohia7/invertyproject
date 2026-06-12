@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Pro
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
@@ -299,3 +300,6 @@ Inventory Pro – Full Stack Inventory & Order Management System
 ## License
 
 This project is developed for educational, learning, portfolio, and technical assessment purposes.
+=======
+# invertyproject
+>>>>>>> c37f7f937060562cb99e251dfc3cc3177b64c2cf
